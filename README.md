@@ -7,6 +7,7 @@ se-day-2-git-and-github
 It is essential for managing code, documents, or any set of files that undergo frequent changes.
 
 **Fundamental concepts of version control:**
+
 **1. Repository**
 A repository (or "repo") is a central file storage location where version-controlled files are stored. It contains the entire history of changes, metadata, and configurations.
 
