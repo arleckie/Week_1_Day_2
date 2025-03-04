@@ -151,6 +151,7 @@ A README can address common questions or issues, reducing the need for repetitiv
 A clear and informative README makes it easier for others to understand, use, and contribute to the project, fostering a collaborative environment.
 
 **Key Elements of a Good README:**
+
 **Title and Description**: A clear and concise project name and description.
 
 **Table of Contents:** For easy navigation in longer READMEs.
